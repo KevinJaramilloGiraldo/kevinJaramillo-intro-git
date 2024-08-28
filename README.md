@@ -1,2 +1,2 @@
 Modificación en la primera linea rama master
-enviarlos antes para que los fueramos realizando en las mismas clases, sería mejor para los que no vivimos de la programación aún.El taller tambien podría ir presentando todos los comandos a usar, hay demasiada documentación, siento que pierdo demasiado tiempo buscando, y ya que es tan tecnico colocar entre parentesis una explicación contextualizada del termino técnico, como para que uno este seguro de lo que es cada termino y no este con la incertidumbre de si leyó lo correcto o lo incorrecto
+Me gustan las salchipapas y el metal
